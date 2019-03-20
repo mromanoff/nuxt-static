@@ -2,6 +2,7 @@
   <section>
     <div>
       <Title/>
+      <p>hey there</p>
       <div class="links">
         <nuxt-link to="/about">About</nuxt-link>
       </div>
